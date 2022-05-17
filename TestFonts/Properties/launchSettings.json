@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestFonts": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
